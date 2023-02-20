@@ -22,5 +22,5 @@ ListApiView, RetrieveAPIView, CreateAPIView, UpdateAPIView, DestroyAPIView
 ______________________________________
 **Примечания:**
 
-:negative_squared_cross_mark: Заполнение базы через `Homework_28_PD12/raw_data/import_data.py` происходит не полностью, 
+:negative_squared_cross_mark: Заполнение базы через `raw_data/import_data.py` происходит не полностью, 
 ManyToMany заполнялись вручную
